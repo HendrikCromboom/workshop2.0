@@ -13,7 +13,25 @@ Before we begin let's make sure we are on the right version of Powershell (5+ sh
 
 ### 2. Preparing for Take Off
 
-Just like any terminal Powershell is commonly used to launch applications, let's launch Microsoft Calculator trough the Powershell Terminal shall we?
+Just like any terminal Powershell is commonly used to launch applications, let's practice some basic actions:
+
+- Move to a directory
+
+- Create a file
+
+- Move a file
+
+- Delete a file
+
+- Open another application (Microsoft Calculator is a great example)
+
+- Open a core/assembly application (Task Manager for example)
+
+- Show your drives (pull up the statistics for your C/ drive)
+
+- Log your powershell to a file
+
+- Bonus: feel free to try some other actions (the documentation can teach you plenty)
 
 ### 3. Houston We Have a Problem
 
@@ -38,7 +56,5 @@ While we won't be reinventing cold water, the task seems more simple then it act
 
 If you have any experience writing scripts I firmly encourage you to have a go at it, if not we will be discussing a couple of options as a group.
 
-### 6. One small step for time saving, one big step for personal development
 
-If somehow you did all of the above in 3 hours and this all is a bit beneath you how ab
 
